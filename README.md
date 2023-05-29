@@ -8,9 +8,9 @@ Accurately predicting customer retention is a crucial undertaking for companies.
 - Resource Allocation: Identifying likely churners helps allocate resources efficiently, focusing efforts on high-value customers.
 - Competitive Advantage: Effective churn prediction differentiates companies, fosters loyalty, and reduces churn rates.
 
-This project is a result of my particiapation in a hackathon where I ended up being the top 5 participant. Over here, I try to predict the cutomers of a B2B company who will churn based on their participation, which is observed through number of inquiries,  social media views / likes, number of consultations, interaction with documents etc...
+I developed this project after participating in a hackathon, where I achieved a top 5 ranking. The project focuses on predicting customer churn for a B2B company by analyzing various factors such as the number of inquiries, social media views/likes, consultations, and interaction with documents.
 
-There were several challenges including but not limited to highly skewed dataset, smaller size of dataset, large number of categorical features etc... which has been addressed in the project. I hope this wil serve as an example for similar projects.
+The project encountered several challenges, including but not limited to a highly skewed dataset, a smaller dataset size, and a large number of categorical features. However, these challenges have been effectively addressed within the project. I believe that this project can serve as a valuable example for similar projects facing similar obstacles.
 
 To clone the repo
 ```
